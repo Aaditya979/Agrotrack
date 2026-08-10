@@ -1,0 +1,20 @@
+timestamp,image_path,status,confidence,risk,alert,green_ratio,dry_ratio,predicted_class,model_name
+2026-03-26 02:06:27,captured\leaf_20260326_020626.jpg,Dry / Stressed,0.84,High,Immediate Alert,0.0,0.241,,
+2026-03-26 02:14:26,captured\leaf_20260326_021426.jpg,Uncertain / Moderate,0.55,Medium,Warning Alert,0.185,0.023,,
+2026-03-26 02:19:58,captured\leaf_20260326_021958.jpg,Uncertain / Moderate,0.55,Medium,Warning Alert,0.042,0.036,,
+2026-04-17 01:27:39,captured\leaf_20260417_012731.jpg,Yellow Leaf Curl Virus Detected,0.8,High,Immediate Alert,,,Tomato__Tomato_YellowLeaf__Curl_Virus,DenseNet121
+2026-04-17 01:49:42,captured\000bf685-b305-408b-91f4-37030f8e62db___GH_HL Leaf 308.1.JPG,Yellow Leaf Curl Virus Detected,0.91,High,Immediate Alert,,,Tomato__Tomato_YellowLeaf__Curl_Virus,DenseNet121
+2026-04-17 01:59:13,captured\0a334ae6-bea3-4453-b200-85e082794d56___GH_HL Leaf 310.1.JPG,Yellow Leaf Curl Virus Detected,0.84,High,Immediate Alert,,,Tomato__Tomato_YellowLeaf__Curl_Virus,DenseNet121
+2026-04-17 02:02:21,captured\0a1e2ed0-619c-43da-8c47-f8000a252954___UF.GRC_YLCV_Lab 03060.JPG,,0.86,Medium,Warning Alert,,,,DenseNet121
+2026-04-17 02:03:00,captured\00a538f3-8421-43ab-9e6f-758d36180dd3___YLCV_NREC 2667.JPG,,0.81,Medium,Warning Alert,,,,DenseNet121
+2026-04-17 03:34:01,captured\0a6d40e4-75d6-4659-8bc1-22f47cdb2ca8___GCREC_Bact.Sp 6247.JPG,,0.85,Medium,Warning Alert,,,,DenseNet121
+2026-04-17 03:38:42,captured\00b7e89a-e129-4576-b51f-48923888bff9___GCREC_Bact.Sp 6202.JPG,,0.84,Medium,Warning Alert,,,,DenseNet121
+2026-04-17 03:41:52,captured\00a7c269-3476-4d25-b744-44d6353cd921___GCREC_Bact.Sp 5807.JPG,,0.86,Medium,Warning Alert,,,,DenseNet121
+2026-04-17 14:38:29,captured\00a7c269-3476-4d25-b744-44d6353cd921___GCREC_Bact.Sp 5807.JPG,Bacterial Spot Detected,0.86,High,Immediate Alert,,,Tomato_Bacterial_spot,DenseNet121
+2026-04-17 14:39:11,captured\000bf685-b305-408b-91f4-37030f8e62db___GH_HL Leaf 308.1.JPG,Bacterial Spot Detected,0.91,High,Immediate Alert,,,Tomato_Bacterial_spot,DenseNet121
+2026-04-17 14:39:47,captured\00a538f3-8421-43ab-9e6f-758d36180dd3___YLCV_NREC 2667.JPG,Bacterial Spot Detected,0.81,High,Immediate Alert,,,Tomato_Bacterial_spot,DenseNet121
+2026-04-17 15:59:39,captured\0c4e96da-6951-4706-9738-bc36bf5d0101___YLCV_GCREC 2150.JPG,Bacterial Spot Detected,0.5,High,Immediate Alert,,,Tomato_Bacterial_spot,DenseNet121
+2026-04-17 17:20:13,captured\00a538f3-8421-43ab-9e6f-758d36180dd3___YLCV_NREC 2667.JPG,Yellow Leaf Curl Virus Detected,0.73,High,Immediate Alert,,,Tomato__Tomato_YellowLeaf__Curl_Virus,DenseNet121
+2026-04-17 17:20:53,captured\00a7c269-3476-4d25-b744-44d6353cd921___GCREC_Bact.Sp 5807.JPG,Yellow Leaf Curl Virus Detected,0.81,High,Immediate Alert,,,Tomato__Tomato_YellowLeaf__Curl_Virus,DenseNet121
+2026-04-17 19:26:00,captured\0aacdad5-c9b9-4309-96e3-0797bbed1375___RS_HL 9836.JPG,Yellow Leaf Curl Virus Detected,0.76,High,Immediate Alert,,,Tomato__Tomato_YellowLeaf__Curl_Virus,DenseNet121
+2026-05-05 11:33:52,captured\0d56df83-84fb-4189-a5d2-3a6da18a224d___UF.GRC_BS_Lab Leaf 9029.JPG,Yellow Leaf Curl Virus Detected,0.75,High,Immediate Alert,,,Tomato__Tomato_YellowLeaf__Curl_Virus,DenseNet121
