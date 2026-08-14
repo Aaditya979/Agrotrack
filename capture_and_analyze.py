@@ -31,7 +31,7 @@ def capture_image():
     while True:
         ret, frame = cam.read()
         if not ret:
-            break
+            break 
 
         cv2.imshow("Leaf Capture", frame)
         key = cv2.waitKey(1)
